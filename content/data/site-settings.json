@@ -1,0 +1,11 @@
+{
+  "title": "Forestry Web Title",
+  "description": "Site Meta Description",
+  "company": "My Awesome Company",
+  "identity": {
+    "streetAddress": "123 Test St",
+    "addressLocality": "Spearfish",
+    "addressRegion": "SD",
+    "zipCode": "57783"
+  }
+}

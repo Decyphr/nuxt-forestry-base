@@ -1,0 +1,5 @@
+# Don't format config files
+*.config.js
+*.yml
+*.json
+*.md
