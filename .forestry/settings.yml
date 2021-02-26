@@ -6,6 +6,10 @@ webhook_url:
 sections:
 - type: heading
   label: General
+- type: document
+  path: content/data/site-settings.json
+  label: Site Settings
+  match: "**/*"
 - type: heading
   label: Content
 - type: directory
