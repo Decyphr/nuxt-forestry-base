@@ -3,9 +3,9 @@
   "description": "Site Meta Description",
   "company": "My Awesome Company",
   "identity": {
-    "streetAddress": "123 Test St",
-    "addressLocality": "Spearfish",
-    "addressRegion": "SD",
+    "address": "123 Test St",
+    "city": "Spearfish",
+    "state": "SD",
     "zipCode": "57783"
   }
 }
