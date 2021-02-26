@@ -36,3 +36,4 @@ fields:
   description: Blocks used to build out the page.
 pages:
 - content/blog/test-blog.md
+- content/pages/test-page.json
