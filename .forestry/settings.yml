@@ -16,12 +16,16 @@ sections:
   label: Blog
   create: documents
   match: "**/*"
+  templates:
+  - page-fields
 - type: directory
   path: content/pages
   label: Pages
   create: documents
   match: "**/*"
   new_doc_ext: json
+  templates:
+  - page-fields
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
