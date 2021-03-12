@@ -34,5 +34,3 @@ fields:
     min: 
     max: 
   description: Blocks used to build out the page.
-pages:
-- content/pages/test-page.json
