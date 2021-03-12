@@ -5,19 +5,7 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: heading
-  label: General
-- type: document
-  path: content/data/site-settings.json
-  label: Site Settings
-- type: heading
   label: Content
-- type: directory
-  path: content/blog
-  label: Blog
-  create: documents
-  match: "**/*"
-  templates:
-  - page-fields
 - type: directory
   path: content/pages
   label: Pages
@@ -26,6 +14,11 @@ sections:
   new_doc_ext: json
   templates:
   - page-fields
+- type: heading
+  label: General
+- type: document
+  path: content/data/site-settings.json
+  label: Site Settings
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
