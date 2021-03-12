@@ -11,7 +11,7 @@ sections:
   label: Pages
   create: documents
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: app
   templates:
   - page-fields
 - type: heading
