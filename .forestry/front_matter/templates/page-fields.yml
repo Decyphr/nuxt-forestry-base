@@ -35,4 +35,4 @@ fields:
     max: 
   description: Blocks used to build out the page.
 pages:
-- content/pages/about.app
+- content/pages/page-1.app
