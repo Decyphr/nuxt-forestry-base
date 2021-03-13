@@ -6,14 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Content
-- type: directory
-  path: content/pages
-  label: Pages
-  create: documents
-  match: "**/*"
-  new_doc_ext: app
-  templates:
-  - page-fields
 - type: heading
   label: General
 - type: document
