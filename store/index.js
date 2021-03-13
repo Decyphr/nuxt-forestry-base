@@ -1,11 +1,12 @@
 import seoData from '../content/data/site-settings.json';
 
 export const state = () => ({
-  siteName: seoData.title,
   identity: {
-    address: seoData.identity.address,
-    city: seoData.identity.city,
-    state: seoData.identity.state,
-    zipCode: seoData.identity.zipCode,
-  },
+    siteName: seoData.title,
+    phone: seoData.phone,
+    address: seoData.address,
+    city: seoData.city,
+    state: seoData.state,
+    zipCode: seoData.zipCode
+  }
 });

@@ -1,9 +1,9 @@
 <template>
   <div>
     <PageHeader />
-    <div class="max-w-screen-xl m-auto p-24">
+    <main class="max-w-screen-xl m-auto py-12">
       <Nuxt />
-    </div>
+    </main>
     <PageFooter />
   </div>
 </template>
