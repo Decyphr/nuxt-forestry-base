@@ -37,3 +37,4 @@ fields:
 pages:
 - content/pages/about.app
 - content/pages/contact.app
+- content/pages/page-elements.app
