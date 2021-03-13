@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: Let's get in touch...
+description: Let's talk
 featured_image: "/images/1280x620.jpg"
 content_blocks: []
 
